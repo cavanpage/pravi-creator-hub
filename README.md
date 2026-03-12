@@ -76,6 +76,3 @@ Pravi Creator Hub automatically enforces organizational standards upon mounting 
     ```
 
 ---
-
-### Why Pravi Creator Hub?
-This project demonstrates senior-level engineering by treating a personal problem as a distributed systems challenge. It showcases mastery in concurrency, observability, and polyglot architecture using Kotlin and Python.
