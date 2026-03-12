@@ -1,5 +1,4 @@
-# Pravi Creator Hub
-## High-Throughput Media Ingestion and Observability
+# Pravi Creator Hub - High-Throughput Media Ingestion and Observability
 
 Pravi Creator Hub is a professional grade desktop ingestion engine and creative utility designed for photographers and videographers who manage high volumes of data across multiple physical drives. It replaces manual file shuffling with a high-concurrency pipeline, automated triage, and real-time observability.
 
